@@ -1,8 +1,8 @@
 
 # xiaoniu 小牛智连机场官方地址(2026年8月29日更新)
 xiaoniu 小牛智连机场官网地址</br>
-最新地址：[www.xnssr.com](https://www.xnssr.com/auth#/register?code=5QMnlvmd)</br>
-官方地址：[www.xnssr.com](https://www.xnssr.com/auth#/register?code=5QMnlvmd)</br>
+最新地址：[www.xnssr.com](https://to.iix.im/xn01)</br>
+官方地址：[www.xnssr.com](https://to.iix.im/xn01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
@@ -12,7 +12,7 @@ xiaoniu 小牛智连机场官网地址</br>
 ## 邀请码
 `此邀请码可得3天1G试用套餐（此活动官方随时取消）`
 ```bash
-5QMnlvmd
+KP0PjHL6
 ```
 ## 优惠码/折扣码
 ```bash
