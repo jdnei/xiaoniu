@@ -26,8 +26,8 @@ xiaoniu 小牛智连机场官网地址</br>
 ## 套餐
 ## 📊 性能实测与分析
 #### 1.晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/xiaoniu/blob/main/xiaoniu/40937520934speed.jpg?raw=ture)</br>
 #### 2.流媒体解锁报告
-![image](?raw=ture)</br>  
+![image](https://github.com/jdnei/xiaoniu/blob/main/xiaoniu/309428509345test.png?raw=ture)</br>  
 #### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/xiaoniu/blob/main/xiaoniu/30942509345ana.png?raw=ture)</br>
