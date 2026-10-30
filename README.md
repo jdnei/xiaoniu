@@ -12,7 +12,7 @@ xiaoniu 小牛智连机场官网地址</br>
 ## 邀请码
 `此邀请码可得3天1G试用套餐（此活动官方随时取消）`
 ```bash
-3y6hzt7c
+vqoySz1q
 ```
 ![image](https://github.com/jdnei/xiaoniu/blob/main/xiaoniu/475234759485092.jpeg?raw=ture)</br>
 ## 优惠码/折扣码
