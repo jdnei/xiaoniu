@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# Xiaoniu Smart Connect VPN Official Website (Updated November 1, 2026)
+# Xiaoniu Smart Connect VPN Official Website (Updated November 2, 2026)
 
 Official Xiaoniu Smart Connect VPN Website<br>
 Latest URL: [www.xnssr.com](https://to.iix.im/xn01)<br>
