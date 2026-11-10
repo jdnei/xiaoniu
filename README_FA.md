@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# وب‌سایت رسمی Xiaoniu Smart Connect VPN(به‌روزرسانی 9 نوامبر 2026)
+# وب‌سایت رسمی Xiaoniu Smart Connect VPN(به‌روزرسانی 10 نوامبر 2026)
 وب‌سایت رسمی Xiaoniu Smart Connect VPN<br>
 آخرین آدرس: [www.xnssr.com](https://to.iix.im/xn01)<br>
 آدرس رسمی: [www.xnssr.com](https://to.iix.im/xn01)<br>
